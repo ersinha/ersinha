@@ -1,3 +1,5 @@
+# main
+
 
 <h1 align="center">
 Hi, I'm Rahul Kumar Sinha!
@@ -25,25 +27,39 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 ✉️ &nbsp;You can shoot me an email at er.sinha66@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1J_dWXbFEqUSlruKay9JulY9kGwjTaJXz/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
+</div>
+<h2 align='center'>  Tech Skills</h2>
+<p align='center'>
+<h3 align='center'> Programming Skills and Tools</h3>
+<div align='center' style="display: flex, width:20px">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img src="https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
+     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+     <img src="https://img.shields.io/badge/TestNG-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
+      <img src="https://img.shields.io/badge/Data%20Driven%20Testing-FF6C37?style=for-the-badge&logo=continuouslearning&logoColor=white" />
+       <img src="https://img.shields.io/badge/Page%20Object%20Model%20(POM)-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
+  
+</div>
+<br/>
+<h2 align='center'>  Soft Skills</h2>
+<div align='center' style="display: flex, width:20px">
+<img src="https://img.shields.io/badge/Communication-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-100000?style=for-the-badge&logo=problemsolving&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Work-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Managment-000000?style=for-the-badge&logo=timemanagment&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptability-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-FF6C37?style=for-the-badge&logo=continuouslearning&logoColor=white" />
+   <img src="https://img.shields.io/badge/Resilience-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
+   <img src="https://img.shields.io/badge/Empathy-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
+  </div>
+  <div>
 
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    </a>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>   
 </p>
+<hr>
 
 
 ## 🙋‍♀️ Let's Connect
