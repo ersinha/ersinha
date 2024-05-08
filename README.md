@@ -1,5 +1,3 @@
-# main
-
 
 <h1 align="center">
 Hi, I'm Rahul Kumar Sinha!
