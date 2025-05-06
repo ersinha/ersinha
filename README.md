@@ -23,7 +23,7 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 ✍️ &nbsp;In my free time, I Read Books and do Stock Market Technical Analysis.\
 💬 &nbsp;Feel free to reach out to me for Stock Technical Analysis and Software Testing or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at er.sinha66@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1-PInRExrSkhXPZjTYmIE2bQfLo2I8AKr/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1N8tSRe2xsfFlw9IkdOeBa2Rg-qvr1p58/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 </div>
 <h2 align='center'>  Tech Skills</h2>
