@@ -25,6 +25,9 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 ✉️ &nbsp;You can shoot me an email at er.sinha66@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1uX9Q9ZO4uplEHyShI3qtd8VWYGFC_VDR/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
+
+
+<br/>
 </div>
 <h2 align='center'>  Tech Skills</h2>
 <p align='center'>
@@ -56,7 +59,6 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000"/>
   
 </div>
-<br/>
 <h2 align='center'>  Soft Skills</h2>
 <div align='center' style="display: flex, width:20px">
 <img src="https://img.shields.io/badge/Communication-0078d7.svg?logo=communication&logoColor=white" />
