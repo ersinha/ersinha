@@ -19,7 +19,7 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new challenges.\
-🔭 I’m currently working on [SuDrives](https://www.sudrives.com/).\
+🔭 My last working company was [Clearquote Technologies](https://clearquote.io/).\
 ✍️ &nbsp;In my free time, I Read Books and do Stock Market Technical Analysis.\
 💬 &nbsp;Feel free to reach out to me for Stock Technical Analysis and Software Testing or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at er.sinha66@gmail.com! I'll try to respond as soon as I can.\
@@ -39,6 +39,14 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
       <img src="https://img.shields.io/badge/Data%20Driven%20Testing-FF6C37?style=for-the-badge&logo=continuouslearning&logoColor=white" />
        <img src="https://img.shields.io/badge/Page%20Object%20Model%20(POM)-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
         <img src="https://img.shields.io/badge/Maven-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
+
+
+</div>
+<h2 align='center'> 🤖 Artificial Intelligence Skills</h2>
+<p align='center'>
+<h3 align='center'> AI Tools</h3>
+<div align='center' style="display: flex, width:20px">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   
 </div>
 <br/>
