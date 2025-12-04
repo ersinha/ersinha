@@ -28,39 +28,46 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 </div>
 <h2 align='center'>  Tech Skills</h2>
 <p align='center'>
-<h3 align='center'> Programming Skills and Tools</h3>
 <div align='center' style="display: flex, width:20px">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-   <img src="https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
-     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-     <img src="https://img.shields.io/badge/TestNG-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data%20Driven%20Testing-FF6C37?style=for-the-badge&logo=continuouslearning&logoColor=white" />
-       <img src="https://img.shields.io/badge/Page%20Object%20Model%20(POM)-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
-        <img src="https://img.shields.io/badge/Maven-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+   <img src="https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white" />
+   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
+     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/>
+	<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
+		<img src="https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"/>
 
 
 </div>
 <h2 align='center'> 🤖 Artificial Intelligence Skills</h2>
 <p align='center'>
-<h3 align='center'> AI Tools</h3>
 <div align='center' style="display: flex, width:20px">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000"/>
   
 </div>
 <br/>
 <h2 align='center'>  Soft Skills</h2>
 <div align='center' style="display: flex, width:20px">
-<img src="https://img.shields.io/badge/Communication-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-100000?style=for-the-badge&logo=problemsolving&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analytical%20Thinking-0078d7.svg?style=for-the-badge&logo=communication&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Work-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
-  <img src="https://img.shields.io/badge/Time%20Managment-000000?style=for-the-badge&logo=timemanagment&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adaptability-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Continuous%20Learning-FF6C37?style=for-the-badge&logo=continuouslearning&logoColor=white" />
-   <img src="https://img.shields.io/badge/Resilience-430098?style=for-the-badge&logo=teamwork&logoColor=white" />
-   <img src="https://img.shields.io/badge/Empathy-pink.svg?style=for-the-badge&logo=adaptability&logoColor=#00C7B7" />
+<img src="https://img.shields.io/badge/Communication-0078d7.svg?logo=communication&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-100000?logo=problemsolving&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytical%20Thinking-0078d7.svg?logo=communication&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Work-430098?logo=teamwork&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Managment-000000?logo=timemanagment&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptability-pink.svg?logo=adaptability&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Continuous%20Learning-FF6C37?logo=continuouslearning&logoColor=white" />
+   <img src="https://img.shields.io/badge/Resilience-430098?logo=teamwork&logoColor=white" />
+   <img src="https://img.shields.io/badge/Empathy-pink.svg?logo=adaptability&logoColor=#00C7B7" />
   </div>
   <div>
 
