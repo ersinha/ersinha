@@ -29,7 +29,7 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 
 <br/>
 </div>
-<h2 align='center'> 👨🏻‍💻 Technical  Skills</h2>
+<h2 align='center'> 👨🏻‍💻💡 Technical  Skills</h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
@@ -77,8 +77,8 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 <hr>
 
 
-## 🙋‍♀️ Let's Connect
-
+<h2 align=''>  🙋‍♀️ Let's Connect
+</div>
 <p align="center">
 	<a href="https://github.com/ersinha" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://www.linkedin.com/in/er-rahul91/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
