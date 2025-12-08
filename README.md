@@ -32,18 +32,18 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 <h2 align='center'> 👨🏻‍💻💡 Technical  Skills</h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
-  <a href="https://github.com/ersinha" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
-   <img src="https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white" />
-   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/>
-	<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
-		<img src="https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"/>
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
+   <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white" /></a>
+   <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /></a>
+    <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" /></a>
+	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/></a>
+    <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+	<a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/></a>
+	<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/></a>
+	<a href="https://slack.com/intl/en-in" target="_blank"> <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/></a>
+	<a href="https://appium.io/docs/en/latest/" target="_blank"> <img src="https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white"/></a>
+	<a href="https://www.firefox.com/en-US/?utm_campaign=SET_DEFAULT_BROWSER" target="_blank"> <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white"/></a>
+	<a href="https://chromewebstore.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"/></a>
 
 
 </div>
