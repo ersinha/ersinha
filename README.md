@@ -32,7 +32,7 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 <h2 align='center'> 👨🏻‍💻💡 Technical  Skills</h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <a href="https://github.com/ersinha" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
    <img src="https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white" />
    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" />
