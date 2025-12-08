@@ -32,10 +32,7 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 <h2 align='center'> 👨🏻‍💻💡 Technical  Skills</h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
-	
-	 <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer">
-	  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  </a>
+
   <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer">
 	  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
   </a>
