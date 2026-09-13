@@ -7,7 +7,7 @@ Hi, I'm Rahul Kumar Sinha!
 </p>
 <hr/>
 <samp>
-I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+Software Engineer focused on building scalable backend services and full-stack web applications using Java, Spring Boot, REST APIs, Microservices, and React.I enjoy designing clean, maintainable applications, developing API-driven solutions, working with databases, and building reliable software using modern development practices.I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -37,9 +37,7 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
 
-  <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer">
-	  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
    <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white" /></a>
    <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /></a>
     <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" /></a>
