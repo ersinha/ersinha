@@ -81,21 +81,8 @@ Software Engineer focused on building scalable backend services and full-stack w
 <a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff"/></a>
 <a href="https://assistant.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff"/></a>
 <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000"/></a>
-  
 </div>
-<p align='center'>
-<div align='center' style="display: flex, width:20px">
-	
-<a href="https://chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/></a>
-<a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"/></a>
-<a href="https://www.deepseek.com/en" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff"/></a>
-<a href="https://gemini.google.com/app" target="_blank"><img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"/></a>
-<a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff"/></a>
-<a href="https://assistant.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff"/></a>
-<a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000"/></a>
-  
-</div>
-<h2 align='center'>  Soft Skills</h2>
+<h2 align='left'>  Soft Skills</h2>
 <div align='center' style="display: flex, width:20px">
 <img src="https://img.shields.io/badge/Communication-0078d7.svg?logo=communication&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solving-100000?logo=problemsolving&logoColor=white" />
