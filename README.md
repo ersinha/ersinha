@@ -39,10 +39,9 @@ Software Engineer focused on building scalable backend services and full-stack w
 <h2 align='center'> ☕ Backend Development </h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
-  <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
-	<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" /></a>
-	<a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff" /></a>
-
+<a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" /></a>
+<a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff" /></a>
 </div>
 <h2 align='center'> ⚛️ Frontend Development </h2>
 <p align='center'>
@@ -52,7 +51,13 @@ Software Engineer focused on building scalable backend services and full-stack w
 	<a href="" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
 	<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" /></a>
 	<a href="" target="_blank"><img src="https://img.shields.io/badge/react_component-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-
+</div>
+<h2 align='center'> 🗄️ Database </h2>
+<p align='center'>
+<div align='center' style="display: flex, width:20px">
+	<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" /></a>
+	<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" /></a>
+	<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" /></a>
 </div>
 <h2 align='center'> 🤖 Artificial Intelligence Skills</h2>
 <p align='center'>
