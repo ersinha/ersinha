@@ -29,8 +29,11 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 ✉️ &nbsp;You can shoot me an email at er.sinha66@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1dlTRB28GY8LfNESjjqmF5CNVWa26HOix/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 <br/> -->
+
 </div>
-<h2 align='center'> 👨🏻‍💻💡 Technical  Skills</h2>
+
+### &nbsp; 👨🏻‍💻💡 Technical  Skills
+<h2 align='center'> ☕ Backend Development </h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
 
@@ -51,6 +54,7 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 
 
 </div>
+<h2 align='center'> ⚛️ Frontend Development </h2>
 <h2 align='center'> 🤖 Artificial Intelligence Skills</h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
