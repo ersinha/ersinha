@@ -32,7 +32,7 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 
 </div>
 
-### &nbsp; 👨🏻‍💻💡 Technical  Skills
+### &nbsp; 👨🏻‍💻🛠️ Technical  Skills
 <h2 align='center'> ☕ Backend Development </h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
