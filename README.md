@@ -35,25 +35,38 @@ Software Engineer focused on building scalable backend services and full-stack w
 </div>
 
 ### &nbsp; 👨🏻‍💻🛠️ Technical  Skills
+
 <h2 align='center'> ☕ Backend Development </h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
   <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a>
-   <a href="https://www.selenium.dev/" target="_blank"><img src="https://img.shields.io/badge/Selenium-%43B02A?logo=selenium&logoColor=white" /></a>
-   <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /></a>
-    <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" /></a>
-	<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/></a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
-	<a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/></a>
-	<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"/></a>
-	<a href="https://slack.com/intl/en-in" target="_blank"> <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/></a>
-	<a href="https://appium.io/docs/en/latest/" target="_blank"> <img src="https://img.shields.io/badge/Appium-662d91?logo=appium&logoColor=white"/></a>
-	<a href="https://www.firefox.com/en-US/?utm_campaign=SET_DEFAULT_BROWSER" target="_blank"> <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white"/></a>
-	<a href="https://chromewebstore.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"/></a>
+	<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" /></a>
+	<a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff" /></a>
 
 </div>
 <h2 align='center'> ⚛️ Frontend Development </h2>
+<p align='center'>
+<div align='center' style="display: flex, width:20px">
+	<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /></a>
+	<a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+	<a href="" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
+	<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" /></a>
+	<a href="" target="_blank"><img src="https://img.shields.io/badge/react_component-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+
+</div>
 <h2 align='center'> 🤖 Artificial Intelligence Skills</h2>
+<p align='center'>
+<div align='center' style="display: flex, width:20px">
+	
+<a href="https://chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/></a>
+<a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"/></a>
+<a href="https://www.deepseek.com/en" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff"/></a>
+<a href="https://gemini.google.com/app" target="_blank"><img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"/></a>
+<a href="https://www.perplexity.ai/" target="_blank"><img src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff"/></a>
+<a href="https://assistant.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff"/></a>
+<a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000"/></a>
+  
+</div>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
 	
