@@ -109,6 +109,19 @@ Software Engineer focused on building scalable backend services and full-stack w
 </p>
 <hr>
 
+## 📈 Currently Focusing On
+
+- ☕ Java Backend Development
+- 🌱 Spring Boot
+- 🔗 REST API Development
+- 🧩 Microservices Architecture
+- ⚛️ React.js
+- 💻 Full-Stack Application Development
+- ☁️ Cloud & CI/CD
+- 🏗️ Software Architecture
+- 🤖 AI-Assisted Development
+
+
 
 <h2 align=''>  🙋‍♀️ Let's Connect
 </div>
@@ -117,3 +130,5 @@ Software Engineer focused on building scalable backend services and full-stack w
 	<a href="https://www.linkedin.com/in/er-rahul91/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:er.sinha66@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+	<h2 align=''>
+		⭐ Thanks for visiting my profile!
