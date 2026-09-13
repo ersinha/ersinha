@@ -3,7 +3,7 @@ Hi, I'm Rahul Kumar Sinha!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;Java+Developer|Spring+Boot;Microservices|React;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;Java+Developer|Spring+Boot;Microservices|React;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <hr/>
 <samp>
