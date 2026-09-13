@@ -11,17 +11,24 @@ I am punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 wit
 </samp>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+- 💻 Full-Stack Software Engineer focused on Java and Spring Boot
+- ☕ Strong experience with Core Java and Java 8/11/17
+- 🚀 Developing REST APIs and Microservices using Spring Boot
+- ⚛️ Building frontend applications using React.js and JavaScript
+- 🗄️ Working with SQL and MySQL databases
+- 🔧 Using Maven, Git and GitHub for development and version control
+- 🔄 Working with Jenkins and CI/CD workflows
+- ☁️ Familiar with AWS, Docker and Kubernetes
+- 🤖 Using AI-assisted development tools to improve development productivity
+- 📚 Continuously learning new technologies and software engineering practices
+<!-- <br/>
 💡 &nbsp;I like to explore new challenges.\
 🔭 My last working company was [Clearquote Technologies](https://clearquote.io/).\
 ✍️ &nbsp;In my free time, I Read Books and do Stock Market Technical Analysis.\
 💬 &nbsp;Feel free to reach out to me for Stock Technical Analysis and Software Testing or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at er.sinha66@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1dlTRB28GY8LfNESjjqmF5CNVWa26HOix/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
-
-
-
-<br/>
+<br/> -->
 </div>
 <h2 align='center'> 👨🏻‍💻💡 Technical  Skills</h2>
 <p align='center'>
