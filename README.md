@@ -70,6 +70,15 @@ Software Engineer focused on building scalable backend services and full-stack w
 	<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
+<h2 align='center'> 🔄 CI/CD & Cloud </h2>
+<p align='center'>
+<div align='center' style="display: flex, width:20px">
+	<a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /></a>
+	<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" /></a>
+	<a href="https://aws.amazon.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" /></a>
+	<a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" /></a>
+</div>
+
 <h2 align='center'> 🤖 Artificial Intelligence Skills</h2>
 <p align='center'>
 <div align='center' style="display: flex, width:20px">
@@ -82,6 +91,7 @@ Software Engineer focused on building scalable backend services and full-stack w
 <a href="https://assistant.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff"/></a>
 <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000"/></a>
 </div>
+
 <h2 align='left'>  Soft Skills</h2>
 <div align='center' style="display: flex, width:20px">
 <img src="https://img.shields.io/badge/Communication-0078d7.svg?logo=communication&logoColor=white" />
