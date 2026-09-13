@@ -146,7 +146,7 @@ AI-powered vehicle inspection application for identifying and tracking vehicle d
 
 📧 **Email:** er.sinha66@gmail.com
 
-💼 **LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/er-rahul91)
 
 🐙 **GitHub:** [github.com/ersinha](https://github.com/ersinha)
 
