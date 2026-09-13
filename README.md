@@ -21,6 +21,8 @@ Software Engineer focused on building scalable backend services and full-stack w
 - ☁️ Familiar with AWS, Docker and Kubernetes
 - 🤖 Using AI-assisted development tools to improve development productivity
 - 📚 Continuously learning new technologies and software engineering practices
+
+  
 <!-- <br/>
 💡 &nbsp;I like to explore new challenges.\
 🔭 My last working company was [Clearquote Technologies](https://clearquote.io/).\
